@@ -1,3 +1,8 @@
-# Fundamentos de Programação Aplicada
-## Projeto - Aplicativo para coleta de dados a partir dos registros alimentares
-O objetivo é realizar a detecção de padrões alimentares a partir de uma base de registros alimentares realizados pelos pacientes. O projeto deverá desenvolver um aplicativo para realizar a aquisição dos dados junto aos pacientes. Pretende-se detectar automaticamente o perfil alimentar do paciente e compará-lo ao perfil alvo definido pelo nutricionista ou médico a partir das informações dos alimentos consumidos anteriormente, sugerindo adequações no seu plano alimentar em tempo real.
+# Projeto da Disciplina - Fundamentos de Programação Aplicada
+## Aplicativo para controle da dieta
+O objetivo do aplicativo é auxiliar o usuário a manter os limites nutricionais (em calorias) diárias.
+
+# Dev - Instalação
+Instalar o SDK Flutter 
+
+Desenvolvimento em andamento, algumas funcionalidades ainda estão em construção.
