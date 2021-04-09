@@ -2,6 +2,8 @@
 ## Aplicativo para controle da dieta
 O objetivo do aplicativo é auxiliar o usuário a manter os limites nutricionais (em calorias) diárias.
 
+![App](https://github.com/palima1/Fundamentos/blob/main/Logotipo.png)
+
 # Dev - Instalação
 Instalar o SDK Flutter 
 
