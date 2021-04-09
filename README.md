@@ -5,7 +5,7 @@ O objetivo do aplicativo é auxiliar o usuário a manter os limites nutricionais
 # Dev - Instalação
 Instalar o SDK Flutter 
 
-## Widget Tree
+## Fluxograma
 
 ![App](https://github.com/palima1/Fundamentos/blob/main/arvore1.png)
 
