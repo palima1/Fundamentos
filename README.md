@@ -9,6 +9,10 @@ Instalar o SDK Flutter
 
 ![App](https://github.com/palima1/Fundamentos/blob/main/arvore1.png)
 
+## Widget Tree
+
+![](https://github.com/palima1/Fundamentos/blob/main/widget%20tree.png)
+
 ## Layout
 
 ![App controle da dieta](https://github.com/palima1/Fundamentos/blob/main/Diagram.png)
