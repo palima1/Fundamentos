@@ -13,8 +13,8 @@ Instalar o SDK Flutter
 
 ![](https://github.com/palima1/Fundamentos/blob/main/widget%20tree.png)
 
-## Layout
+## Navegação
 
-![App controle da dieta](https://github.com/palima1/Fundamentos/blob/main/Diagram.png)
+![App controle da dieta](https://github.com/palima1/Fundamentos/blob/main/layout1.PNG)
 
 Desenvolvimento em andamento, algumas funcionalidades ainda estão em construção.
