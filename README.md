@@ -17,4 +17,5 @@ Instalar o SDK Flutter
 
 ![App controle da dieta](https://github.com/palima1/Fundamentos/blob/main/layout1.PNG)
 
-Desenvolvimento em andamento, algumas funcionalidades ainda estão em construção.
+## Assistir ao vídeo do aplicativo
+[App Controle da Dieta](https://youtu.be/wAqvla0DUks)
