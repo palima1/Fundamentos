@@ -5,9 +5,9 @@ O objetivo do aplicativo é auxiliar o usuário a manter os limites nutricionais
 # Dev - Instalação
 Instalar o SDK Flutter 
 
-## Fluxograma
+## Logotipo
 
-![App](https://github.com/palima1/Fundamentos/blob/main/arvore1.png)
+![App]()
 
 ## Widget Tree
 
@@ -19,3 +19,5 @@ Instalar o SDK Flutter
 
 ## Assistir ao vídeo do aplicativo
 [App Controle da Dieta](https://youtu.be/wAqvla0DUks)
+
+[App marketing](https://drive.google.com/file/d/1JVULckNwGHEFzScpEXD1twh9usbkyMO9/view?usp=sharing)
