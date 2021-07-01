@@ -7,7 +7,7 @@ Instalar o SDK Flutter
 
 ## Logotipo
 
-![App]()
+![App](https://github.com/palima1/Fundamentos/blob/main/Logotipo.png)
 
 ## Widget Tree
 
@@ -18,6 +18,6 @@ Instalar o SDK Flutter
 ![App controle da dieta](https://github.com/palima1/Fundamentos/blob/main/layout1.PNG)
 
 ## Assistir ao vídeo do aplicativo
-[App Controle da Dieta](https://youtu.be/wAqvla0DUks)
+[App Demonstração](https://youtu.be/wAqvla0DUks)
 
-[App marketing](https://drive.google.com/file/d/1JVULckNwGHEFzScpEXD1twh9usbkyMO9/view?usp=sharing)
+[App Apresentação](https://drive.google.com/file/d/1JVULckNwGHEFzScpEXD1twh9usbkyMO9/view?usp=sharing)
