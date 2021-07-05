@@ -7,7 +7,7 @@ Instalar o SDK Flutter
 
 ## Controle da dieta
 
-![App](https://github.com/palima1/Fundamentos/blob/main/Logotipo.png)
+![App](https://github.com/palima1/Fundamentos/blob/main/Logotipo_.jpg)
 
 ## Widget Tree
 
