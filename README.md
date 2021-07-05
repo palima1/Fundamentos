@@ -5,7 +5,7 @@ O objetivo do aplicativo é auxiliar o usuário a manter os limites nutricionais
 # Dev - Instalação
 Instalar o SDK Flutter 
 
-## Logotipo
+## Controle da dieta
 
 ![App](https://github.com/palima1/Fundamentos/blob/main/Logotipo.png)
 
@@ -21,3 +21,5 @@ Instalar o SDK Flutter
 [App Demonstração](https://youtu.be/wAqvla0DUks)
 
 [App Apresentação](https://drive.google.com/file/d/1JVULckNwGHEFzScpEXD1twh9usbkyMO9/view?usp=sharing)
+
+[Play store](https://play.google.com/store/apps/details?id=controle.diet)
